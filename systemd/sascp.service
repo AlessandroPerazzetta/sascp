@@ -1,0 +1,13 @@
+[Unit]
+Description=SAS Control Panel
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/sascp
+ExecStart=/opt/sascp/sascp
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
