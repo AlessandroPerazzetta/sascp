@@ -1,5 +1,14 @@
 # sascp Project aka Simple and Stupid Control Panel
 
+**Tags:**  
+- 🦀 <span style="color:#dea584;">`rust`</span>  
+- 🌐 <span style="color:#4f8cc9;">`axum`</span>  
+- 🖥️ <span style="color:#34a853;">`web`</span>  
+- ⚙️ <span style="color:#d4af37;">`systemd`</span>  
+- 🐧 <span style="color:#333;">`unix`</span>  
+- 💻 <span style="color:#e67e22;">`command-execution`</span>  
+- 🛠️ <span style="color:#6c63ff;">`control-panel`</span>
+
 ## Overview
 The sascp project is a Rust-based web application that provides a command execution interface through a web server built using the Axum framework. Users can execute predefined system commands via a web interface.
 
