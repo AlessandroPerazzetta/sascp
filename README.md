@@ -32,7 +32,7 @@ To run the application, use the following command:
 cargo run
 ```
 
-The application will start a web server listening on port 3000.
+The application will start a web server listening on port 16661.
 
 ### Setting Up Systemd Service
 To run the application as a service, copy the `sascp.service` file to the systemd directory:
